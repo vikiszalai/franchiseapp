@@ -217,4 +217,4 @@ foreach ($data['posts'] as $key) {
 </script>
 
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?libraries=geometry,drawing,places&key=AIzaSyAzxkmF000qxt3Kqvni87BjmiP7PbZd32s&v=3&libraries=places&callback=initMain"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?libraries=geometry,drawing,places&key=YOUR_API_KEY&libraries=places&callback=initMain"></script>
